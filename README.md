@@ -39,5 +39,6 @@ pytest src/test/test_assignment_1.py -v
 ```
 to execute all test cases and show detailed output.
 
-New test cases may be added by modifying `src/test/test_assignment_1.py`
+New test cases may be added by modifying `src/test/test_assignment_1.py`.
+
 Each algorithm has a `debug` parameter which can be set to `True` to show the result of each iteration.
